@@ -1,0 +1,35 @@
+[
+  {
+    "ProductName": "Pen",
+    "Id": "101",
+    "UOM": "10",
+    "Quantity": "3",
+    "TotalProductPrice": "500",
+    "ProductPrice": "150",
+    "Image": "https://picsum.photos/seed/picsum/200/300",
+    "Brand": "Cello",
+    "AddedToCart": 0
+  },
+  {
+    "ProductName": "File",
+    "Id": "102",
+    "UOM": "10",
+    "Quantity": "3",
+    "TotalProductPrice": "500",
+    "ProductPrice": "100",
+    "Image": "https://picsum.photos/200",
+    "Brand": "Classmate",
+    "AddedToCart": 0
+  },
+  {
+    "ProductName": "Book",
+    "Id": "103",
+    "UOM": "10",
+    "Quantity": "3",
+    "TotalProductPrice": "500",
+    "ProductPrice": "200",
+    "Image": "https://picsum.photos/200/300",
+    "Brand": "Vijay",
+    "AddedToCart": 0
+  }
+]
